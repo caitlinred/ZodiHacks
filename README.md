@@ -5,6 +5,9 @@ _________________________________________________________
 
 We started this project by using Indico's text analysis API for personas for Python. Then, we used Flask, html, and css to get the website up and running.
 
+You can access ZodiHacks for a limited time at zodihacks.tk
+
+
 
 Made @ Hackbeanpot 2018 by:
 Kelsey Esposito
